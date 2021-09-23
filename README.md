@@ -1,1 +1,1 @@
-# 03_euler
+# euler_03
